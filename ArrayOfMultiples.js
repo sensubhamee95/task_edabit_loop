@@ -13,4 +13,4 @@
  let num = 17;
  let length = 6;
  
- console.log(arrayOfMultiples(num,length));
+//  console.log(arrayOfMultiples(num,length));
